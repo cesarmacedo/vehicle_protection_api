@@ -147,8 +147,6 @@ Content-Type: application/json </br>
                 "name": "terceiro2",
                 "state": "MG",
                 "vehicle": "palio",
-                "updated_at": "2021-03-01T02:20:54.545Z",
-                "created_date": "2021-03-01T02:20:54.545Z"
             },
             {
                 "cpf": "888.888.888.88",

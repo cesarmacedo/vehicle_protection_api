@@ -87,7 +87,7 @@ Content-Type: application/json </br>
 # Change a customer
 Request</br>
 <b>PUT /api/v1/customer/:id</b></br>
-path: localhost:3000/api/v1/customer/1
+path: localhost:3000/api/v1/customer/1 </br>
 Response</br>
 Status: 200 OK</br>
 Content-Type: application/json</br>
